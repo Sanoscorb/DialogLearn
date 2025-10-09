@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DialogLearn</string>
+    <string name="button_time">Time</string>
+    <string name="button_date">Date</string>
+    <string name="dialog_start_game">Want to start the game?</string>
+    <string name="start">Start</string>
+    <string name="cancel">Cancel</string>
+    <string name="button_game">Game</string>
+    <string name="toast_start">Game is started</string>
+    <string name="toast_cancel">Game is canceled</string>
+</resources>

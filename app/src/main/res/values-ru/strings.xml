@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DialogLearn</string>
+    <string name="button_time">Время</string>
+    <string name="button_date">Дата</string>
+    <string name="dialog_start_game">Хотите начать игру?</string>
+    <string name="start">Начать</string>
+    <string name="cancel">Отмена</string>
+    <string name="button_game">Игра</string>
+    <string name="toast_start">Игра начата</string>
+    <string name="toast_cancel">Игра отменена</string>
+</resources>
